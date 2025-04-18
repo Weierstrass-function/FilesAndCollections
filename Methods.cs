@@ -7,6 +7,7 @@ using System.Xml.Serialization;
 
 namespace FilesAndCollections
 {
+    // Все
     internal class Methods
     {
         public static void generateRandomFiles()

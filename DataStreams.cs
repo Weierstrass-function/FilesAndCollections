@@ -13,6 +13,7 @@ namespace FilesAndCollections
         public int MaxAge;
     }
 
+    // Нетривиальные конвертации, парсинг чисел и все такое
     internal class DataStreams
     {
         

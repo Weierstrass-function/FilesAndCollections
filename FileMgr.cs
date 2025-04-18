@@ -6,6 +6,7 @@ using System.Xml.Serialization;
 
 namespace FilesAndCollections
 {
+    // Класс работы с файлами
     internal class FileMgr
     {
         public static List<string> importLines(string filePath)
